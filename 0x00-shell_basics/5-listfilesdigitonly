@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -ali)"
+echo "$(ls -lia)"
