@@ -1,2 +1,2 @@
-#!/bin/bash
-printf "$(ls)"
+#!/usr/bin/bash
+echo "$(ls)"
