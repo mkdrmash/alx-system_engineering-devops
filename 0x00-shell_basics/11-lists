@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -la --time-style=+'')"
+echo -e "$(ls -la --time-style=+'') \n $(ls -la --time-style=+'' '../') \n $(ls -la --time-style=+'' '/boot')"
