@@ -7,3 +7,4 @@ This project is a collection of web infrastructure designs that could be impleme
 ## Designs Presented
 
 + Simple web stack - [details](0-simple_web_stack.md)
++ Distributed web infrastructure - [details](1-distributed_web_infrastructure.md)
